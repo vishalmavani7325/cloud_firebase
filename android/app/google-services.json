@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358219940382",
+    "project_id": "cloud-friebase",
+    "storage_bucket": "cloud-friebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358219940382:android:d0c43d78f9cf89a140a40f",
+        "android_client_info": {
+          "package_name": "com.example.cloud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1H7s94CZMXeiwX4uTm221HqUyASC0ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
